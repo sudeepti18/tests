@@ -1,1 +1,4 @@
 # tests
+hi
+hello
+bye
